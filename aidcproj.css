@@ -1,0 +1,196 @@
+<style>  
+
+
+#desc {
+	font-family: Montserrat, sans-serif;
+	margin-bottom: 0;
+	background-color: #fff;
+	border: 0;
+	font-size: 20px !important;
+	letter-spacing: 2px;
+	opacity: 0.9;
+}
+
+#Emergency
+{
+	font-size:20px;
+}
+
+#doc
+{
+	
+	padding: 10px 40px; 
+	border-radius: 5px;
+	background-color: rgba(0, 153, 217, 0.8); 
+	color : #fff;
+}
+#docheader
+{
+	font-family: Agency FB ;
+	font-size:24px;
+	color : #fff;
+}
+#docsub
+{
+	font-family: arial ;
+	margin-left:10px;
+	font-size:12px;
+}
+#Welcome_text
+{
+	font-size:24px;
+}
+#emergencynumber
+{
+	font-size:24px;
+}
+
+#desclist
+{
+	font-size : 18px;
+	color: #0099d9;
+	letter-spacing : px;
+}
+
+#address
+{
+	font-size:14px;
+}
+#myCarousel
+{
+	margin-top:40px;	
+}
+#page_header
+{
+	color:#0099d9;
+	
+}
+#footer
+{
+	padding-top:20px;
+	color:#0099d9;
+	
+}
+
+
+
+.col-sm-12 {
+	padding-top : 50px;
+	padding-bottom : 30px;
+	font-family: arial ;
+	margin-bottom: 0;
+	background-color: #fff;
+	border: 0;
+	letter-spacing: 4px;
+	opacity: 0.9;
+}
+.img-circle{
+	position :center;
+	
+	margin-top:20px;
+}
+.col-sm-4{
+	padding-top : 40px;
+	margin-top : 20px;
+	
+}
+.col-sm-8{
+	
+	margin-top:20px;
+	
+	padding-top : 40px;
+	
+	
+}
+.text-center{
+	font-size:15px;	
+	
+}
+
+.col-sm-6
+{
+	margin-top:20px;
+	padding-bottom :40px;
+	padding-top : 40px;
+}
+
+.col-sm-5
+{
+	margin-top:20px;
+	padding-bottom :60px;
+	padding-top : 40px;
+}
+
+.navbar {
+font-family: Montserrat, sans-serif;
+margin-bottom: 0;
+background-color: #fff;
+border: 0;
+font-size: 11px !important;
+letter-spacing: 4px;
+opacity: 0.9;}
+
+.navbar li a, .navbar  { 
+color: #0099d9 !important;
+background-color : #fff;
+}
+.navbar-brand { 
+color: #0099d9 !important;
+background-color : #fff;
+
+}
+.aidc { 
+color: #0099d9 !important;
+background-color : #fff;
+visibility:hidden;
+
+}
+
+.navbar-nav li a:hover {
+color: #fff;
+background-color : #0099d9;
+}
+
+.navbar-nav li.active a {
+color: #0099d9 !important;
+background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+border-color: transparent;
+background-color: #29292c;
+
+}
+
+.carousel-inner img {
+width :100%;
+margin: auto;
+}
+
+.carousel-caption h3 {
+color: #fff !important;
+}
+
+@media (max-width: 600px) {
+.carousel-caption {
+display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+}
+
+}
+@media screen and (min-width: 480px) {
+  
+    .aidc
+	{
+        visibility:visible;
+    }
+}
+
+
+.carousel slide
+{
+height : 500px;
+}
+
+
+
+</style>
